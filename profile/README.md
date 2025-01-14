@@ -4,7 +4,6 @@
 
 - [Create a repository from a gist](https://github.com/new?template_name=repo-from-gist&template_owner=nyjc-computing)  
   Click here if you want to create a new repository from a (public) Github gist, using [this template](https://github.com/nyjc-computing/repo-from-gist).
-- 
 
 ## Free resources
 
